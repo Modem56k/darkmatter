@@ -3,14 +3,14 @@
     "title": "Dark Matter Core Ruleset Expansion",
     "description": "Module to extend the Dark Matter DND5e Ruleset",
     "author": "modem56k",
-    "version": "0.0.1",
+    "version": "0.02",
     "minimumCoreVersion": "0.8.9",
 	"compatibleCoreVersion": "0.8.9",
 	"minimumSystemVersion": "1.4.0",
     "packs": [],
     "url": "https://github.com/Modem56k/darkmatter.git",
-    "manifest": "https://github.com/Modem56k/darkmatter/releases/download/0.0.1/module.json",
-    "download": "https://github.com/Modem56k/darkmatter/releases/download/0.0.1/darkmatter.zip",
+    "manifest": "https://github.com/Modem56k/darkmatter/releases/download/0.0.2/module.json",
+    "download": "https://github.com/Modem56k/darkmatter/releases/download/0.0.2/darkmatter.zip",
     "dependencies": [
         {
             "name": "dnd5e",
